@@ -1,0 +1,42 @@
+body {
+    padding: 50px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #364652;
+    background-color: #F2CEE6;
+    background-image: url("https://www.photohdx.com/images/2016/03/dark-purple-texture-background.jpg");
+}
+
+#beginning {
+    color: #ffffff;
+    background-color: #4C243B;
+    border: 1px solid #FFFFFF; 
+}
+
+.welcomeImage {
+    border: 1px solid #FFFFFF; 
+    background-color: rgba(255,228,250,.8);
+}
+
+li {
+    display: inline-block;
+    }
+
+#end {
+    color: #ffffff;
+    background-color: #4C243B;
+    border: 1px solid #FFFFFF; 
+}
+
+a:link {
+    color: #fff;
+}
+
+a:visited {
+    color: #F2EFEA;
+}
+
+a:hover { 
+    color: #B4D2E7;
+}
+
